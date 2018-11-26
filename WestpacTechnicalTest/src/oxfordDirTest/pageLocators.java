@@ -30,7 +30,7 @@ public class pageLocators {
 	public void clickExpandOpps() throws InterruptedException{
 		
 		driver.findElement(expandOpps).click();
-		Thread.sleep(400);
+		Thread.sleep(300);
 	}
 	
 	public void typeValidWord() throws InterruptedException{
