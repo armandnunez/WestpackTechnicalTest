@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36308" started-at="2018-11-20T22:04:59Z" finished-at="2018-11-20T22:05:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36308" started-at="2018-11-20T22:04:59Z" finished-at="2018-11-20T22:05:36Z">
+      <class name="oxfordDirTest.VerifyInValidInput">
+        <test-method status="PASS" signature="Test_Input()[pri:0, instance:oxfordDirTest.VerifyInValidInput@32d992b2]" name="Test_Input" duration-ms="36258" started-at="2018-11-20T22:04:59Z" finished-at="2018-11-20T22:05:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Input -->
+      </class> <!-- oxfordDirTest.VerifyInValidInput -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
